@@ -1,0 +1,43 @@
+.myLogo{
+    font-size: 25px;
+    transition: 0.1s all ease;
+}
+.myLogo:hover{
+    font-size: 25px;
+    border-bottom: 2px solid #17bed2;
+}
+.myLogo span{
+    font-size: 25px;
+    font-weight: 800;
+    color: #17bed2;
+}
+.promo-block {
+    position: relative;
+    padding-top: 170px;
+  }
+  #experience h2{
+    text-align: center;
+    font-size: 30px;
+  }
+  .item{
+    margin-bottom: 5px !important;
+  }
+  .work-ex-item{
+    margin-bottom: 50px;
+  }
+  .skillsHead{
+    padding-top: 50px;
+  }
+  .service-info h3{
+    font-size: 20px;
+  }
+  .service-info p{
+    font-size: 16px;
+  }
+  .contactMe{
+    width: 100%;
+  }
+  .contact-links {
+    font-size: 11px;
+    overflow: hidden;
+  }
